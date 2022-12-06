@@ -9,10 +9,11 @@
 header {
   display: flex;
   justify-content: space-between;
-  background-color: black;
-  color: white;
+  background-color: blanchedalmond;
+  color: teal;
   grid-column: 1 / span 2;
   padding: 10px 5px;
+  font-size: 30px;
 }
 
 form {
