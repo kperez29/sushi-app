@@ -1,3 +1,6 @@
-# Sushi Recipe
+# Sushi Web App
 
-App for Sushi ............
+Web Application for Sushi ............
+
+
+Webpage: https://sushi-app-297cb.web.app
