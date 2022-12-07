@@ -1,15 +1,15 @@
-export default function Recipe({ Recipes }) {
+export default function Recipe({ thisRecipe }) {
   return (
-    <Recipes>
-      {!Recipes ? (
+    <recipe>
+      {!thisRecipe ? (
         <p>No recipe selected</p>
       ) : (
         <section>
-          <h2>{Recipes.name}</h2>
-          <p className="date">{`Posted: ${Recipes.date}`}</p>
-          <p className="recipe">{Recipes.recipe}</p>
+          <h2>{thisRecipe.name}</h2>
+          <p className="date">{`Posted: ${thisRecipe.date}`}</p>
+          <p className="recipe">{thisRecipe.recipe}</p>
         </section>
       )}
-    </Recipes>
+    </recipe>
   );
 }

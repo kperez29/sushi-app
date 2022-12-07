@@ -21,7 +21,7 @@ export default function RecipeEntry({ addRecipe }) {
         {error && <p className="error">{error}</p>}
         Sushi Name
         <input value={name} onChange={(e) => setName(e.target.value)} />
-        Sushi Recipes
+        Sushi Recipe
         <textarea
           rows="8"
           value={recipe}

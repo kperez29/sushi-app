@@ -4,13 +4,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBqmO_KxSjjolCkLnk3SzpJ8NP8miWQGGo",
-  authDomain: "sushi-app-297cb.firebaseapp.com",
-  projectId: "sushi-app-297cb",
-  storageBucket: "sushi-app-297cb.appspot.com",
-  messagingSenderId: "918553881576",
-  appId: "1:918553881576:web:d11147d8416ae97b01925d",
-  measurementId: "G-K3BTB47BKP",
+  apiKey: "AIzaSyBeQhX9YYF_iNZWdQIbE-PEiWDC-8nng0g",
+  authDomain: "sushi-recipe-app.firebaseapp.com",
+  projectId: "sushi-recipe-app",
+  storageBucket: "sushi-recipe-app.appspot.com",
+  messagingSenderId: "1042521018341",
+  appId: "1:1042521018341:web:fc894cdba523480c9e290c",
+  measurementId: "G-RXGFFYJZHJ",
 };
 
 // Initialize Firebase
