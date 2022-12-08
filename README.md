@@ -6,7 +6,7 @@ In the following web application, user will be able to post blogs about sushi re
 
 Once the website has loaded, it shows the website name and a sign in button that will allow user to sign in using Google. Once button is pressed, a pop out window will load allowing them to sign in using Google.
 
-The top nav bar shows the website name, followed by a button that allows authoirzed users to create a new recipe blog. The top right shows the person who is logged in, "Hello, NAME", which also shows the users photo that is asscoiated to the user. Then is a sign out button that allows user to sign out.
+The top nav bar shows the website name, followed by a button that allows authoirzed users to create a new recipe blog. The top right shows the person who is logged in, "Hello, NAME", which also shows the users photo that is asscoiated to their account. Then is a sign out button that allows user to sign out.
 
 The right bar shows the users blog that are stored in the data base, and if no recipe is selected, it will tell user "No recipe selected!"
 
