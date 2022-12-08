@@ -1,4 +1,4 @@
-# Sushi Web App
+# Sushi Recipe Blog
 
 Web Application for Sushi Recipes
 
