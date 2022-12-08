@@ -31,7 +31,7 @@ export default function App() {
   return (
     <div className="App">
       <header>
-        Sushi Recipes
+        My Sushi Recipes
         {user && (
           <button onClick={() => setWriting(true)}>New Sushi Recipe</button>
         )}
